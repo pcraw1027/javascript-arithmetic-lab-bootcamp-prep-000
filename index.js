@@ -1,5 +1,9 @@
+function add(a,b) {
+  return a + b
+}
+
 function increment(number) {
-  return nunber += 1
+  return number += 1
 }
 
 function decrement(number) {
